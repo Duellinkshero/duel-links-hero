@@ -1,2 +1,0 @@
-# duel-links-hero
-welcom
